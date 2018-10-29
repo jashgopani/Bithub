@@ -1,0 +1,76 @@
+body{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+/*Common params*/
+.dash-body{
+	margin-top: 2vh;
+}
+/*End*/
+
+/*Pesky stuff*/
+.list-group-item{
+	background-color: #000000;
+	color: white;
+	border: 1px solid rgba(255,255,255,.125);
+}
+/*End*/
+.post{
+	position: relative;
+	padding: 1rem;
+	border: 1px solid rgba(100, 100, 100, 0.5);
+	border-radius: 5px;
+}
+
+.img-holder{
+	padding: 1rem;
+}
+
+.user-img{
+	height: 100%;
+	width: 100%;
+}
+
+.post-content{
+	position: relative;
+}
+
+.post-document{
+	width: 100%;
+
+}
+
+.post-val{
+	margin: 1rem 0rem; 
+}
+
+.post-val button{
+	margin-left: 1rem;
+}
+/*Post stuff*/
+
+/*Comment stuff*/
+.commentBox{
+	display: none;
+}
+.commentInput{
+	height: 6vh;
+	width: 75%;
+	padding: 0.2rem;
+	border-radius: 0.5rem;
+}
+.all-comments{
+	margin-top: 2vh;
+}
+
+.postComment{
+	height: 6vh;
+	width: 18%;
+	text-align: center;
+	margin-left: 3%;
+	line-height: 0px;
+}
+/*End*/
+
+/*End*/

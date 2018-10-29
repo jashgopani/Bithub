@@ -1,0 +1,95 @@
+.body{
+    background-color: black;
+    color: white; 
+}
+
+.full-content{
+    padding-top: 8vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    background-color: black;
+    color: white;
+}
+
+.row{
+    padding-top: 2vw;
+}
+
+.card{
+    color:black;
+}
+
+.header-img{
+  height: 35vw;
+  background-position: center;
+  background-clip: content-box;
+  background-repeat: no-repeat;
+  padding: 0; 
+/*  margin-bottom: 2vw;*/
+}
+
+.actual-header-img{
+  height: 100%;
+  width: 100%;
+}
+
+.head{
+    position: absolute;
+    top: 20vw;
+    left: 45%;
+    color: white;
+    font-size: 4vw;
+}
+
+.followers{
+    position: absolute;
+    top: 31vw;
+    left: 25%;
+    color: white;
+    text-align: center;
+}
+
+.num{
+    font-size: 3vw;
+}
+
+.foll{
+    font-size: 2vw;
+}
+
+.following{
+    position: absolute;
+    top: 31vw;
+    right: 25%;
+    color: white;
+    text-align: center;   
+}
+
+.file{
+  margin: 2% 4%;
+}
+
+.search-input{
+    margin: 0% 0%;
+}
+
+.user-img{
+	height: 100%;
+	width: 100%;
+    border-style: double;
+    border-width: thick;
+    border-color: cadetblue; 
+}
+
+.img-holder{
+    margin-left: auto;
+    margin-right: auto;
+    top: -20%;
+    position: relative;
+    max-height: 15%;
+    max-width: 15%;	
+}
+
+.selector{
+    color: black;
+}

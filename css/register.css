@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.span-text{
+    background-color: deepskyblue;
+    border-color: blue;
+    color: white;
+    border-radius: 8px;
+}
+
+.span-body{
+    border-color: blue;
+    border-radius: 8px;
+}
+
+.span-body:focus{
+    border-color: lightblue;
+    border-width: 2px;
+}
+
+.linker{
+    margin: 20px;
+}
+
+.fields{
+    max-width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.upper{
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#registration-form{
+    margin-left: 6vw;
+    margin-right: 6vw;
+}

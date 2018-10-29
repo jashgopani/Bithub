@@ -1,0 +1,11 @@
+/*Navbar notifications*/
+.drop-menu {
+	position: absolute;
+	min-width: 30vmin;
+	max-width: 49vmax;
+}
+
+.drop-message {
+	overflow: hidden;
+}
+/*End*/

@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+.form-body{
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.options button{
+    margin: 10px;
+}
+
+img{
+	height: 40vh;
+	width: 40vh;
+}
